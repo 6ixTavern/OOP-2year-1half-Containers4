@@ -1,0 +1,14 @@
+H:\LAB3\bin\Debug\LAB3.exe.config
+H:\LAB3\bin\Debug\LAB3.exe
+H:\LAB3\bin\Debug\LAB3.pdb
+H:\LAB3\obj\Debug\LAB3.csprojAssemblyReference.cache
+H:\LAB3\obj\Debug\LAB3.csproj.CoreCompileInputs.cache
+H:\LAB3\obj\Debug\LAB3.exe
+H:\LAB3\obj\Debug\LAB3.pdb
+C:\Users\2.1-ПК.003\Desktop\LAB4\bin\Debug\LAB3.exe.config
+C:\Users\2.1-ПК.003\Desktop\LAB4\bin\Debug\LAB3.exe
+C:\Users\2.1-ПК.003\Desktop\LAB4\bin\Debug\LAB3.pdb
+C:\Users\2.1-ПК.003\Desktop\LAB4\obj\Debug\LAB3.csproj.AssemblyReference.cache
+C:\Users\2.1-ПК.003\Desktop\LAB4\obj\Debug\LAB3.csproj.CoreCompileInputs.cache
+C:\Users\2.1-ПК.003\Desktop\LAB4\obj\Debug\LAB3.exe
+C:\Users\2.1-ПК.003\Desktop\LAB4\obj\Debug\LAB3.pdb
